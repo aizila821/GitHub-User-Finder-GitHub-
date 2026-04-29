@@ -1,6 +1,6 @@
 # GitHub User Finder
 
-Автор: Kamilchik
+Автор: Закирова Айзиля
 
 ## Описание
 
